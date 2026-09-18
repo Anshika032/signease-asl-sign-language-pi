@@ -271,13 +271,6 @@ By eliminating communication barriers, Sign Ease empowers speech-impaired indivi
 
 ---
 
-# 👨‍💻 Contributors
-
-**Anshika Shukla and team**
-Project Developer
-
----
-
 # 📜 License
 
 This project is licensed under the MIT License.
