@@ -111,7 +111,7 @@ Transforms recognized text into natural speech.
 
 Reliable performance with or without internet.
 
-### 👥 User Friendly
+### 👥 User-Friendly
 
 Simple, intuitive, and accessible interface.
 
@@ -129,7 +129,7 @@ Promotes independence and social inclusion.
 
 ### Step 1: Capture
 
-The webcam captures live hand gestures from the user.
+The webcam captures the user's live hand gestures.
 
 ### Step 2: Understand
 
@@ -171,7 +171,7 @@ The generated output enables seamless interaction with others.
 
 ## Speech Processing
 
-* Google Text-to-Speech (gTTS)
+* TTS engine(pyttsx3)
 * mpg123
 
 ## Edge Computing
